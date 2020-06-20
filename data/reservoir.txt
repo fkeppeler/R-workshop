@@ -1,0 +1,13 @@
+Period	emergent_macrophytes	floating_macrophytes
+1	11	16
+1	12	16
+1	16	16
+1	18	15
+1	13	12
+1	13	14
+2	8	19
+2	9	18
+2	8	20
+2	7	21
+2	6	20
+2	5	13
