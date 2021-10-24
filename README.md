@@ -1,4 +1,4 @@
-## R-workshop
+# R-workshop
 
 This repository contains the material of the R workshop that was held at Stephen F. Austin State University from June 26 to June 28 of 2020. 
 
